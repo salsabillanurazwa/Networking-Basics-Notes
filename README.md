@@ -1,2 +1,2 @@
 # Networking-Basics-Notes
-- OSI Model - TCP/IP - IP Address - Subnetting basic - DNS - DHCP - Ping troubleshooting - ipconfig/ifconfig commands
+A documentation project showing Ubuntu 26.04 LTS installation using Oracle VirtualBox and basic Linux configuration.
